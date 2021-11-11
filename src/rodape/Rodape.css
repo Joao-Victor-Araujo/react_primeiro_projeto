@@ -1,0 +1,11 @@
+footer {
+    width: 100%;
+    padding: 10px;
+    background: rgb(26, 72, 93);
+    bottom: 0;
+    position: fixed;
+}
+
+footer h3 {
+    color: white;
+}
